@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
+	"github.com/Mr-J486/QuantumShield/pqcCC_demo/chaincode"
 	"github.com/hyperledger/fabric-contract-api-go/v2/contractapi"
-	"github.com/hyperledger/fabric-samples/asset-transfer-basic/chaincode-go/chaincode"
 )
 
 func main() {
