@@ -3,9 +3,9 @@ module github.com/Mr-J486/QuantumShield/pqcCC_demo
 go 1.25.0
 
 require (
+	github.com/cloudflare/circl v1.6.3
 	github.com/cyberphone/json-canonicalization v0.0.0-20241213102144-19d51d7fe467
 	github.com/hyperledger/fabric-contract-api-go/v2 v2.2.0
-	github.com/open-quantum-safe/liboqs-go v0.0.0-20250119172907-28b5301df438
 )
 
 require (
